@@ -1,4 +1,4 @@
 package com.api.rentcars.service;
 
-public class AutomovilService {
+public class VehiculoService {
 }
